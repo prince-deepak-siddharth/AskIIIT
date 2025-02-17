@@ -57,6 +57,14 @@ streamlit run app.py
 2. Open your browser and navigate to `http://localhost:8501`
 3. Start asking questions about IIITDMJ!
 
+## Deployment
+🚀 AskIIIT is live! You can try it out on **Hugging Face Spaces**:
+
+🔗 **[AskIIIT on Hugging Face](https://huggingface.co/spaces/PrinceDeepakSiddharth12/AskIIIT)**
+
+Simply visit the link, enter your query, and get instant AI-powered responses about IIITDMJ!
+
+
 ## Project Structure
 ```
 AskIIIT/
