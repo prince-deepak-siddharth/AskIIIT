@@ -7,7 +7,7 @@ AskIIIT is a Retrieval-Augmented Generation (RAG) based chatbot specifically des
 ![AskIIIT Interface](screenshot.png)
 
 ## Features
-- 🤖 AI-powered responses using Mixtral-8x7B model
+- 🤖 AI-powered responses using llama-3.3-70b-versatile model
 - 📚 RAG-based information retrieval from IIITDMJ documents
 - 💬 Interactive chat interface with typing animation
 - 🎯 Context-aware and accurate responses
@@ -16,7 +16,7 @@ AskIIIT is a Retrieval-Augmented Generation (RAG) based chatbot specifically des
 
 ## Tech Stack
 - **Framework:** Streamlit
-- **LLM:** Mixtral-8x7B (via Groq)
+- **LLM:** llama-3.3-70b-versatile (via Groq)
 - **Embeddings:** HuggingFace (all-MiniLM-L6-v2)
 - **Vector Store:** FAISS
 - **RAG Implementation:** LangChain
