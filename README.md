@@ -2,7 +2,7 @@
 > Your AI-Powered IIITDMJ Knowledge Companion
 
 ## Overview
-AskIIIT is a Retrieval-Augmented Generation (RAG) based chatbot specifically designed to answer queries about IIIT Jabalpur. Built using LangChain and Streamlit, it provides accurate, context-aware responses by leveraging the Mixtral-8x7B model through Groq.
+AskIIIT is a Retrieval-Augmented Generation (RAG) based chatbot specifically designed to answer queries about IIIT Jabalpur. Built using LangChain and Streamlit, it provides accurate, context-aware responses by leveraging the llama-3.3-70b-versatile model through Groq.
 
 ![AskIIIT Interface](screenshot.png)
 
