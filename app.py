@@ -14,7 +14,7 @@ def load_resources():
     env.read_env(".env")
 
     api_key = env("GROQ_API_KEY")
-    chat = ChatGroq(temperature=0.4, model_name="mixtral-8x7b-32768")
+    chat = ChatGroq(temperature=0.4, model_name="llama-3.3-70b-versatile")
     embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
     try:
